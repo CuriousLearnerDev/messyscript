@@ -6,8 +6,8 @@ import time
 import random
 
 
-admin="13523176267" #账号
-passwd="zhao2737977997" #密码
+admin="xxxxxxx" #账号
+passwd="xxxxxxx" #密码
 
 
 
